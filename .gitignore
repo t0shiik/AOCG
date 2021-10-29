@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/lab_01/.vs
+/lab_03/.vs
+/lab_04/.vs
