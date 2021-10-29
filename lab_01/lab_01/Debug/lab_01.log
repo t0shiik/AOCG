@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\toniz\AOCG\AOCG\lab_01\lab_01\Source.cpp(59,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\toniz\AOCG\AOCG\lab_01\lab_01\Source.cpp(60,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\toniz\AOCG\AOCG\lab_01\lab_01\Source.cpp(76,35): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\toniz\AOCG\AOCG\lab_01\lab_01\Source.cpp(90,12): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  lab_01.vcxproj -> C:\Users\toniz\AOCG\AOCG\lab_01\Debug\lab_01.exe

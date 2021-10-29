@@ -1,0 +1,5 @@
+﻿  GraphicObject.cpp
+  Source.cpp
+C:\Users\toniz\AOCG\AOCG\lab_03\lab_03\Source.cpp(65,35): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  Создание кода...
+  lab_03.vcxproj -> C:\Users\toniz\AOCG\AOCG\lab_03\Debug\lab_03.exe
